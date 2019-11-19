@@ -1,1 +1,6 @@
-/home/ajiang/.bash_aliases
+alias desktop='cd /mnt/c/Users/Andy/Desktop'
+alias stats401='cd /mnt/c/Users/Andy/Documents/stats401'
+alias eecs485='cd /mnt/c/Users/Andy/Desktop/eecs485'
+alias eecs201='cd /mnt/c/Users/Andy/Desktop/eecs201'
+alias env='source env/bin/activate'
+alias untar='tar -xvzf'
